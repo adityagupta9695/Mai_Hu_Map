@@ -1,0 +1,19 @@
+# Core Dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.30.0
+Pillow>=9.0.0
+
+# API and Async
+aiohttp>=3.8.0
+asyncio>=3.4.3
+
+# Progress and UI
+tqdm>=4.65.0
+
+# Visualization
+matplotlib>=3.5.0
+numpy>=1.21.0
+
+# Optional but recommended for better performance
+# torch[cuda]>=2.0.0
