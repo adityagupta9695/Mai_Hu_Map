@@ -109,7 +109,6 @@ Mai_Hu_Map/
 ├── requirements.txt                 # Python dependencies
 ├── README.md                        # This file
 ├── .gitignore                       # Git ignore rules
-└── examples/                        # Example images
 ```
 
 ## 📊 Output
